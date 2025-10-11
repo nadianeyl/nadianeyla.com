@@ -4,7 +4,7 @@
     "description": "A web-based app for shortening long links & managing them in one place. I designed & developed all parts of the app from scratch.",
     "tools": ["Go", "SQL", "MySQL", "JavaScript", "HTML5", "CSS3", "Git"],
     "demoUrl": "",
-    "codeUrl": "https://github.com/nadiannis/stn",
+    "codeUrl": "https://github.com/nadianeyl/stn",
     "image": "/static/images/projects/stn.jpg"
   },
   {
@@ -35,7 +35,7 @@
       "Git"
     ],
     "demoUrl": "https://tokoplay.vercel.app",
-    "codeUrl": "https://github.com/nadiannis/tokoplay-api",
+    "codeUrl": "https://github.com/nadianeyl/tokoplay-api",
     "image": "/static/images/projects/tokoplay.jpg"
   },
   {
@@ -43,7 +43,7 @@
     "description": "A handy reference for chord construction. I designed the UI, implemented it into frontend code using modern build tools, & deployed the site on a web hosting.",
     "tools": ["React.js", "Tailwind CSS", "tonal", "howler.js", "Git", "Figma"],
     "demoUrl": "https://chordion.vercel.app",
-    "codeUrl": "https://github.com/nadiannis/chordion",
+    "codeUrl": "https://github.com/nadianeyl/chordion",
     "image": "/static/images/projects/chordion.jpg"
   }
 ]

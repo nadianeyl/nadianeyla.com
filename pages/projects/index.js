@@ -11,9 +11,9 @@ export default function ProjectsPage() {
       <Head>
         <meta
           name="description"
-          content="I turn ideas into great-looking usable apps. Find out more about me, my writings, and the projects I've created."
+          content="Product engineer turning ideas into well-crafted usable products that create business value and improve lives. Discover my projects, thoughts, and more about me."
         />
-        <title>Projects | Annisa Nadia</title>
+        <title>Projects | Nadia Neyla</title>
       </Head>
 
       <section className="text-main py-8 sm:py-12 w-full">

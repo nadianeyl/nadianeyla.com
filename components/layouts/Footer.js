@@ -8,7 +8,7 @@ export default function Footer() {
         <h2 className="text-4xl mb-7">Get in Touch</h2>
         <SocialLinkList />
         <span className="block text-xs mt-16">
-          &copy; 2021 - {new Date().getFullYear()} Annisa Nadia Neyla
+          &copy; 2021 - {new Date().getFullYear()} Nadia Neyla
         </span>
       </Container>
     </footer>

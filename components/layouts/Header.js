@@ -14,7 +14,7 @@ export default function Header() {
               href="/"
               className="font-greycliff font-extrabold text-main inline-block mdplus:absolute mdplus:inset-0 mdplus:m-auto mdplus:h-7 mdplus:w-20"
             >
-              nadiannis
+              nadianeyla
             </a>
           </Link>
         </div>

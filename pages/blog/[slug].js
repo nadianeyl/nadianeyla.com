@@ -40,7 +40,7 @@ export default function BlogPage({ blog }) {
     <>
       <Head>
         <meta name="description" content={summary} />
-        <title>{title} | Annisa Nadia</title>
+        <title>{title} | Nadia Neyla</title>
       </Head>
 
       <section className="text-main pb-20 pt-4 w-full">
@@ -73,7 +73,7 @@ export default function BlogPage({ blog }) {
                 </span>
               )}
               <a
-                href={`https://github.com/nadiannis/nadiannis-site/edit/develop/data/blog/${slug}.mdx`}
+                href={`https://github.com/nadianeyl/nadianeyla.com/edit/develop/data/blog/${slug}.mdx`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="link"

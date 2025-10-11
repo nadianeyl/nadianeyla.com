@@ -1,21 +1,21 @@
 <div align="center">
   <br>
-  <a href="https://"><img width="96" height="96" src="https://raw.githubusercontent.com/nadiannis/nadiannis-site/develop/public/static/favicons/ms-icon-310x310.png"></a>
+  <a href="https://"><img width="96" height="96" src="https://raw.githubusercontent.com/nadianeyl/nadianeyla.com/develop/public/static/favicons/ms-icon-310x310.png"></a>
   <br>
-  <h1><strong>nadiannis.com</strong></h1>
-  <p>🏡 A personal site of Annisa Nadia Neyla 🏡</p>
+  <h1><strong>nadianeyla.com</strong></h1>
+  <p>🏡 A personal site of Nadia Neyla 🏡</p>
   <br>
   <p align="center">
-    <a href="https://github.com/nadiannis/nadiannis-site/issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat"></a>
+    <a href="https://github.com/nadianeyl/nadianeyla.com/issues"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat"></a>
   </p>
   <br>
     
-  [**View the Website**](https://nadiannis.com)
+  [**View the Website**](https://nadianeyla.com)
 </div>
 
 ## Description
 
-**nadiannis.com** is Nadia's personal site. It is a platform for Nadia to showcase her projects, share what she has learned, and express herself through writing. This site is also a playground for experimenting and exploring things.
+**nadianeyla.com** is Nadia's personal site. It is a platform for Nadia to showcase her projects, share what she has learned, and express herself through writing. This site is also a playground for experimenting and exploring things.
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@
 - Clone the repo.
 
   ```bash
-  git clone https://github.com/nadiannis/nadiannis-site.git
+  git clone https://github.com/nadianeyl/nadianeyla.com.git
   ```
 
 - Install the dependencies.
@@ -62,8 +62,8 @@
 
 ## Contributing
 
-You can contribute to this site by creating an [issue](https://github.com/nadiannis/nadiannis-site/issues) or [pull request](https://github.com/nadiannis/nadiannis-site/pulls).
+You can contribute to this site by creating an [issue](https://github.com/nadianeyl/nadianeyla.com/issues) or [pull request](https://github.com/nadianeyl/nadianeyla.com/pulls).
 
 ## License
 
-This project is licensed under the GNU GPL 3.0 License - see the [LICENSE](https://github.com/nadiannis/nadiannis-site/blob/main/LICENSE) file for details.
+This project is licensed under the GNU GPL 3.0 License - see the [LICENSE](https://github.com/nadianeyl/nadianeyla.com/blob/main/LICENSE) file for details.

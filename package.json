@@ -1,17 +1,16 @@
 {
-  "name": "nadiannis-site",
-  "description": "Personal site of Annisa Nadia Neyla",
+  "name": "nadianeyla.com",
+  "description": "Personal site of Nadia Neyla",
   "author": {
-    "name": "Annisa Nadia Neyla",
-    "email": "annisanadianeyla@gmail.com"
+    "name": "Nadia Neyla"
   },
-  "homepage": "https://github.com/nadiannis/nadiannis-site#readme",
+  "homepage": "https://github.com/nadianeyl/nadianeyla.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nadiannis/nadiannis-site.git"
+    "url": "https://github.com/nadianeyl/nadianeyla.com.git"
   },
   "bugs": {
-    "url": "https://github.com/nadiannis/nadiannis-site/issues"
+    "url": "https://github.com/nadianeyl/nadianeyla.com/issues"
   },
   "license": "GPL-3.0-or-later",
   "scripts": {

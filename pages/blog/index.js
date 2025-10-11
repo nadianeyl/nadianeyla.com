@@ -11,9 +11,9 @@ export default function AllBlogsPage({ blogs }) {
       <Head>
         <meta
           name="description"
-          content="Thoughts on frontend development, web development, software engineering, life, and more."
+          content="Thoughts on product development, software engineering, web development, life, and more."
         />
-        <title>Blog | Annisa Nadia</title>
+        <title>Blog | Nadia Neyla</title>
       </Head>
 
       <section className="text-main py-8 sm:py-12 w-full">
