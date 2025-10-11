@@ -10,9 +10,9 @@ export default function HomePage() {
       <Head>
         <meta
           name="description"
-          content="I turn ideas into great-looking usable apps. Find out more about me, my writings, and the projects I've created."
+          content="Product engineer turning ideas into well-crafted usable products that create business value and improve lives. Discover my projects, thoughts, and more about me."
         />
-        <title>Annisa Nadia</title>
+        <title>Nadia Neyla — Product Builder</title>
       </Head>
 
       <section className="py-10 w-full">
@@ -23,7 +23,7 @@ export default function HomePage() {
                 Personal site of
               </span>
               <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-main mb-7 lg:mb-12 tracking-widest">
-                Annisa Nadia
+                Nadia Neyla
               </h1>
             </div>
             <div className="ml-0 lg:ml-7">

@@ -10,7 +10,7 @@ export default function MinimalHeader() {
         <div className="flex justify-between items-center">
           <Link href="/">
             <a href="/" className="font-greycliff font-extrabold text-main">
-              nadiannis
+              nadianeyla
             </a>
           </Link>
           <ThemeButton />

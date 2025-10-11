@@ -81,10 +81,10 @@ class MyDocument extends Document {
             content="/static/favicons/ms-icon-144x144.png"
           />
           <meta name="theme-color" content="#ffffff" />
-          <meta name="author" content="Annisa Nadia Neyla" />
+          <meta name="author" content="Nadia Neyla" />
           <meta
             name="keywords"
-            content="Frontend Engineer, Frontend Developer, Web Developer, Frontend Development, Web Development, Software Engineering, React, JavaScript, TypeScript, CSS, Indonesia"
+            content="Digital Maker, Product Engineer, Software Engineer, Software Developer, Backend Engineer, Backend Developer, Web Developer, Product Development, Software Engineering, Backend Development, Web Development, System Design, Database, API, Web Server, Go, Golang, SQL, JavaScript, Digital Product"
           />
         </Head>
         <body>

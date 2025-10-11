@@ -11,25 +11,25 @@ import SocialLink from './SocialLink';
 const socials = [
   {
     id: 'github',
-    url: 'https://github.com/nadiannis',
+    url: 'https://github.com/nadianeyl',
     icon: IoLogoGithub,
     hasBackground: false,
   },
   {
     id: 'linkedin',
-    url: 'https://www.linkedin.com/in/nadiannis',
+    url: 'https://www.linkedin.com/in/nadianeyl',
     icon: RiLinkedinFill,
     hasBackground: true,
   },
   {
     id: 'twitter',
-    url: 'https://twitter.com/nadiannis',
+    url: 'https://x.com/nadianeyl',
     icon: IoLogoTwitter,
     hasBackground: true,
   },
   {
     id: 'youtube',
-    url: 'https://www.youtube.com/@nadiannis',
+    url: 'https://www.youtube.com/@nadianeyl',
     icon: IoLogoYoutube,
     hasBackground: true,
   },

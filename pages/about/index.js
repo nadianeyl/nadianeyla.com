@@ -13,9 +13,9 @@ export default function AboutPage() {
       <Head>
         <meta
           name="description"
-          content="I turn ideas into great-looking usable apps. Find out more about me, my writings, and the projects I've created."
+          content="Product engineer turning ideas into well-crafted usable products that create business value and improve lives. Discover my projects, thoughts, and more about me."
         />
-        <title>About | Annisa Nadia</title>
+        <title>About | Nadia Neyla</title>
       </Head>
 
       <section className="text-main py-8 sm:py-12 w-full">
@@ -114,7 +114,7 @@ export default function AboutPage() {
                   </a>{' '}
                   or reach out to me on{' '}
                   <a
-                    href="https://www.linkedin.com/in/nadiannis"
+                    href="https://www.linkedin.com/in/nadianeyl"
                     target="_blank"
                     rel="noreferrer"
                     className="link"
